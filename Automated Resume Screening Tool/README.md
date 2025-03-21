@@ -41,6 +41,8 @@ The **Automated Resume Screening Tool** is designed to help recruiters efficient
 
 ## 📸 Screenshots (Optional)
 Include some screenshots of the tool’s interface to give users an idea of its functionality.
+Automated Resume Screening Tool/Interface.png
+
 
 ## 🏆 Challenges & Solutions
 ### ✅ Challenges
