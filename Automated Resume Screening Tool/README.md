@@ -41,7 +41,9 @@ The **Automated Resume Screening Tool** is designed to help recruiters efficient
 
 ## 📸 Screenshots (Optional)
 Include some screenshots of the tool’s interface to give users an idea of its functionality.
-Automated Resume Screening Tool/Interface.png
+https://github.com/Krishna4241/Automated-Resume-Screening-NLP/blob/530ae406224d0310bc26e1b68a7fccd09e286cca/Automated%20Resume%20Screening%20Tool/Interface.png
+
+https://github.com/Krishna4241/Automated-Resume-Screening-NLP/blob/530ae406224d0310bc26e1b68a7fccd09e286cca/Automated%20Resume%20Screening%20Tool/Result.png
 
 
 ## 🏆 Challenges & Solutions
